@@ -1,0 +1,9 @@
+{
+	"name": "dfprodxtafactory",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de6910b6-d21a-4673-83d7-66d605869b1e",
+		"tenantId": "bbaade53-eba8-478a-8a23-94354cc25d89"
+	}
+}
